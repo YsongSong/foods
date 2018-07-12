@@ -1,0 +1,196 @@
+/*主体布局开始*/
+#main_2 {
+	width: 910px;
+	height: 610px;
+}
+#main_2 .left {
+	width: 640px;
+	height: 580px;
+	border: 1px solid #CFAA66;
+	float: left;
+	margin-left: 4px;
+	margin-top: 4px;
+	border-radius: 6px;
+}
+#main_2 .right div {
+	border: 1px solid #CFAA66;
+	float: right;
+	margin-right: 4px;
+	border-radius: 6px;
+}
+/*主体布局结束*/
+
+/*右边通告*/
+#main_2 .right_1 {
+	width: 250px;
+	height: 96px;
+	margin-top: 5px;
+}
+#main_2 .right_2 {
+	width: 250px;
+	/*height: 120px;*/
+	height:100%;
+	margin-top: 10px;
+}
+#main_2 .right_3 {
+	width: 250px;
+	height: 200px;
+	margin-top: 10px;
+}
+#main_2 .mess_img {
+	float: left;
+}
+#main_2 .mess_title {
+	font-family: "微软雅黑";
+	font-size: 18px;
+	color: #D8A371;
+	float: left;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.mess_a1 {
+	display: block;
+	margin-top: 12px;
+	text-decoration: none;
+	color: black;
+	float: right;
+	margin-right: 10px;
+}
+.mess_a2 {
+	text-decoration: none;
+	color: black;
+}
+.mess_a1:hover,.mess_a2:hover {
+	color: blue;
+}
+#main_2 .right .tiele_mess {
+	width: 250px;
+	height: 37px;
+	margin-top: 2px;
+	border-bottom: 1px dashed #955D63;
+}
+.ul2 {
+	width: 248px;
+	height: 48px;
+	list-style-type: none;
+	margin-top: -10px;
+	text-align: left;
+	padding-left: 0px;
+}
+.mess_detail {
+	float: left;
+	margin-top: 0px;
+	margin-left: 4px;
+}
+.mess_detail_1 {
+	width: 150px;
+	height: 19px;
+	line-height: 19px;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	float: left;
+}
+.mess_detail_2{
+	width: 70px;
+	height: 18px;
+	line-height: 24px;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	color: #8C8A81;
+}
+.detail_img {
+	float: left;
+	margin-top: 6px;
+}
+#main_2 .ul2 li {
+	float: left;
+	width: 248px;
+	height: 20px;
+}
+/*右边通告结束*/
+
+/*左边开始*/
+#main_2 .left .ul1 {
+	list-style-type: none;
+	position: relative;
+	left: -16px;	
+}
+#main_2 .left .ul1 li {
+	list-style-type: none;
+	padding: 0;
+	width: 300px;
+	height: 160px;
+	float: left;
+	margin-bottom: 10px;
+}
+.food_left {
+	width: 126px;
+	height: 160px;
+	/*border: 1px solid black;*/
+	float: left;
+}
+.food_img_1 {
+	width: 125px;
+	height: 125px;
+}
+.food_right {
+	width: 168px;
+	height: 160px;
+	/*border: 1px solid blue;*/
+	float: left;
+}
+.food_name {
+	width: 70px;
+	float: left;
+	margin-left: 4px;
+	margin-bottom: 6px;
+	font-size: 12px;
+	/*border: 1px solid blue;*/
+	position: relative;
+	top: -10px;
+}
+#food_name {
+	font-weight: bold;
+	font-size: 14px;
+	font-family: "黑体";
+	text-align: left;
+}
+#price {
+	font-size: 12px;
+	font-family: "微软雅黑";
+	text-align: left;
+}
+#price_v {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: "微软雅黑";
+	color: #B12918;
+	text-align: left;
+}
+.peil_2 {
+	width: 40px;
+	float: left;
+	margin-left: 6px;
+	margin-bottom: 6px;
+	font-size: 12px;
+	/*border: 1px solid blue;*/
+	position: relative;
+	top: -10px;
+}
+#peil_2 {
+	width: 100px;
+	height: 30px;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 6px;
+	font-size: 12px;
+	/*border: 1px solid blue;*/
+	position: relative;
+	text-align: left;
+	top: -10px;
+	font-size: 12px;
+}
+#food_type {
+	text-align: left;
+}
+/*左边详细页结束*/

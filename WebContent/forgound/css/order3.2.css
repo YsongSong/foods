@@ -1,0 +1,42 @@
+
+			.table{
+				width:500px;
+				height: 81px;
+			}
+			.td{
+				border: 0;
+			}
+			.td1{
+				width: 899px;
+				height: 29px;
+			}
+			td{
+				text-align: center;
+			}
+			#td2{
+				margin-top: 28px;
+			}
+			#td3{
+				margin-top: 23px;
+			}
+			.div{
+				width: 910px;
+				height: 510px;
+				margin: auto;
+				border: 1px solid black;
+			}
+			.div1{
+				width: 910px;
+				height: 115px;
+				border: 1px solid black;
+			}
+			.div2{
+				width: 910px;
+				height: 100%;
+				border: 1px solid black;
+				}
+			.div3{
+				width 910px;
+				height: 36px;
+				border: 1px solid black;
+			}

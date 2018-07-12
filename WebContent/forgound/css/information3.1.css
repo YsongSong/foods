@@ -1,0 +1,57 @@
+
+			.div{
+				width: 910px;
+				height: 355px;
+				border: 1px solid black;
+			}
+			.table{
+				margin-top: 20px;
+				width: 700px;
+				height: 162px;
+			}
+			.td1{
+				width: 280px;
+				height: 28px;
+			}
+			.td2{
+				width: 140px;
+				height: 26px;
+			}
+			td{
+				text-align: center;
+			}
+			.td3{
+				background-image:url(../img/canche_submit.gif);
+				width: 54px;
+				height: 20px;
+				border: none;
+			}
+			.td4{
+				background-image:url(../img/quxiao2.gif);
+				width: 77px;
+				height: 20px;
+				border: none;
+				margin-left: 53px;
+			}
+			.td5{
+				border: 0;
+			}
+			*{
+				font-size: 12px;
+			}
+			.div4{
+				width: 910px;
+				height: 510px;
+				margin: auto;
+				border: 1px solid black;
+			}
+			.div1{
+				width: 910px;
+				height: 115px;
+				border: 1px solid black;
+			}
+			.div3{
+				width 910px;
+				height: 40px;
+				border: 1px solid black;
+			}

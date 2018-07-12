@@ -1,0 +1,96 @@
+*{
+	font-size: 12px;
+	color: gray;
+}
+
+#a1{
+	text-decoration: none;
+	color: red;
+}
+#a2{
+	text-decoration: none;
+	color: #ACD62F;
+}
+.all{
+	width: 910px;
+	height: 510px;
+	border: red ;
+}
+
+.top{
+	width: 910px;
+	height: 115px;
+	border: #FACBAA 1px double;
+	background-color: red;
+}
+
+.middle{
+	width: 910px;
+	height: 355px;
+	border: #FACBAA 1px double;
+}
+
+.bottom{
+	width: 910px;
+	height: 40px;
+	border: #FACBAA 1px double;
+}
+
+.main{
+	width: 660px;
+	height: 270px;
+	background-color: #FDEBD5;
+	border: #FACBAA 1px double;
+	margin-top: 40px;
+}
+
+.main1{
+	width: 250px;
+	height: 130px;
+	display: block;
+	float: left;
+	background-color: white;
+	border: #FACBAA 1px double;
+	position: relative;
+	left: 20px;
+	top: 30px;
+}
+.main1 table{
+	margin-left: 20px;		
+	margin-top: 20px;
+}
+.main2{
+	width: 334px
+	height: 130px;
+	border: #FACBAA 1px double;
+	background-color: white;
+	float: left;
+	position: relative;
+	left: 30px;
+	top: 30px;
+	margin-left: 20px
+}
+
+.main2 table{
+	margin-left: 20px;		
+	margin-top: 20px;
+	margin-bottom: 38px;
+	margin-right: 20px;
+}
+
+.loginbutton{
+	width: 40px;
+	height: 19px;
+	background-image:url(../img/denglu.gif);
+	border: 0px;
+}
+.registerbutton{
+	width: 40px;
+	height: 19px;
+	background-image: url(../img/zhuce.gif);
+	border: 0px;
+}
+
+td{
+	height:20px ;
+}

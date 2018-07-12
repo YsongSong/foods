@@ -1,0 +1,30 @@
+*{
+				font-size: 12px;
+			}
+			table{
+			margin: auto;
+			margin-top: 40px;
+			}	
+			textarea{
+				width: 400px;
+				height: 215px;
+			}
+			
+			.td1{
+				width: 700px;
+			}
+			
+			.td2{
+				width: 175px;
+			}
+			
+			.td3{
+				width: 525px;
+			}
+			
+			
+			
+			.divtable{
+				margin: auto;
+			}
+			
